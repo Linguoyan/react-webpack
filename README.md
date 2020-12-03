@@ -7,7 +7,7 @@
 
 ## 这是个啥?
 
-React+Redux 后台管理系统脚手架<br/> React Hooks / Redux / React Router / antd / webpack4 / Javascript
+React+Redux 后台管理系统脚手架<br/> React Hooks / Redux / React Router / antd4 / webpack4 / Javascript
 
 ## 构建 Start
 
