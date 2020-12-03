@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # React-webpack(https://github.com/Linguoyan/react-webpack)<br/>
+=======
+# React-webpack<br/>
+>>>>>>> b87062fa3b49b15a504979685b27b5e7cb98c6e5
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg) 
 ![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
 ![GitHub last commit](https://img.shields.io/github/last-commit/javaLuo/react-admin.svg?style=popout)
